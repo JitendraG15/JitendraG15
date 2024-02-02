@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jitendra Gupta</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jitendrag15" alt="jitendrag15" /></a> </p>
-
 - 🔭 I’m currently working on [Acumeen-2.0](https://github.com/JitendraG15/Acumeen-2.0)
 
 - 🌱 I’m currently learning **React Native**
