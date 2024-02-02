@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jitendra Gupta</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A Passionate Software Developer From India</h3>
 
 - 🔭 I’m currently working on [Acumeen-2.0](https://github.com/JitendraG15/Acumeen-2.0)
 
