@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jgupta15499@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_HgZxycSXGDAW7fAxu15QMZh8uarUo6y/view?usp=sharing](https://drive.google.com/file/d/1_HgZxycSXGDAW7fAxu15QMZh8uarUo6y/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1_HgZxycSXGDAW7fAxu15QMZh8uarUo6y/view?usp=sharing](https://drive.google.com/file/d/1_HgZxycSXGDAW7fAxu15QMZh8uarUo6y/view?usp=sharing](https://drive.google.com/file/d/1Z1VK9OxnxBwHQrIxhrU1zFqUM1teUcTW/view?usp=sharing))
 
 - ⚡ Fun fact **Jolly**
 
