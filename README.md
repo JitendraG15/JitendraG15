@@ -9,7 +9,7 @@
 
 - 👨‍💻 One of my project is available at [(https://client-blogging-app-mern-1.onrender.com/)
 
-- 📝 I regularly write articles on [https://www.techsavvyhindi.com/](https://www.techsavvyhindi.com/)
+- 📝 I regularly write articles on [(https://trendytechdev.com/)](https://trendytechdev.com/)
 
 - 💬 Ask me about **JavaScript, React, Node.Js**
 
