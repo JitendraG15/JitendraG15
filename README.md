@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jitendra Gupta</h1>
 <h3 align="center">A Passionate Software Developer From India</h3>
 
-- 🔭 I’m currently working on [Acumeen-2.0](https://github.com/JitendraG15/Acumeen-2.0)
+- 🔭 I’m currently working in TCS.
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning Java Microservices.
 
-- 👯 I’m looking to collaborate on [cuhSarthi](https://github.com/JitendraG15/CuhSarthi-College-Project)
+- 👯 I’m looking to collaborate on RankIn Platform.
 
 - 👨‍💻 One of my project is available at [(https://client-blogging-app-mern-1.onrender.com/)
 
 - 📝 I regularly write articles on [(https://trendytechdev.com/)](https://trendytechdev.com/)
 
-- 💬 Ask me about **JavaScript, React, Node.Js**
+- 💬 Ask me about **JavaScript, React, Node.Js and Java**
 
 - 📫 How to reach me **jgupta15499@gmail.com**
 
